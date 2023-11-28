@@ -1,0 +1,6 @@
+b getbuf
+display/x $eax
+display/x $ecx
+display/x $edx
+display/x $esi
+display/x $edi

